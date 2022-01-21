@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["role"],{"6c35":function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"role"},[t("role-list")],1)},s=[],c={name:"LoginIndex"},o=c,r=t("2877"),a=Object(r["a"])(o,l,s,!1,null,"807765c2",null);n["default"]=a.exports}}]);
+//# sourceMappingURL=role.80fbd8a3.js.map

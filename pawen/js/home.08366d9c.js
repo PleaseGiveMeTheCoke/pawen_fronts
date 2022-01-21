@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{"7abe":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",{staticClass:"home"},[e._v("首页")])},s=[],o={name:"HomeIndex"},c=o,i=a("2877"),l=Object(i["a"])(c,t,s,!1,null,"3e3a043a",null);n["default"]=l.exports}}]);
+//# sourceMappingURL=home.08366d9c.js.map

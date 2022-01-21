@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["user"],{e382:function(e,s,n){"use strict";n.r(s);var t=function(){var e=this,s=e.$createElement,n=e._self._c||s;return n("div",{staticClass:"user"},[n("user-list")],1)},r=[],a={name:"UserIndex"},u=a,c=n("2877"),i=Object(c["a"])(u,t,r,!1,null,"a2bcd356",null);s["default"]=i.exports}}]);
+//# sourceMappingURL=user.1d0268b2.js.map
